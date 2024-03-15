@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5B7CSTQgeoeTRco8wgYRY7/MZZ5MQd5oAjtvlrphNeE=",
+  "Hash": "2VYf61IHDbsOK115mvVBLu0OEP9FYNytVC+JlbYHGYg=",
   "Source": "Again2",
   "BasePath": "_content/Again2",
   "Mode": "Default",
@@ -3400,6 +3400,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\assets\\images\\website-images\\004e95b6-6b71-41b4-89cc-181a22148802-Screenshot 2023-10-29 121511.png",
+      "SourceId": "Again2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\",
+      "BasePath": "_content/Again2",
+      "RelativePath": "assets/images/website-images/004e95b6-6b71-41b4-89cc-181a22148802-Screenshot 2023-10-29 121511.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\004e95b6-6b71-41b4-89cc-181a22148802-Screenshot 2023-10-29 121511.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\assets\\images\\website-images\\1.png",
       "SourceId": "Again2",
       "SourceType": "Discovered",
@@ -4197,6 +4214,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\3.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\assets\\images\\website-images\\799827a5-59c8-42cf-bb8b-aa0acc22f5d4-Screenshot 2023-11-04 164153.png",
+      "SourceId": "Again2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\",
+      "BasePath": "_content/Again2",
+      "RelativePath": "assets/images/website-images/799827a5-59c8-42cf-bb8b-aa0acc22f5d4-Screenshot 2023-11-04 164153.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\799827a5-59c8-42cf-bb8b-aa0acc22f5d4-Screenshot 2023-11-04 164153.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\assets\\images\\website-images\\ca599bfe-1878-49e2-a458-037742a760d5-Screenshot 2024-02-08 155203.png",
+      "SourceId": "Again2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\",
+      "BasePath": "_content/Again2",
+      "RelativePath": "assets/images/website-images/ca599bfe-1878-49e2-a458-037742a760d5-Screenshot 2024-02-08 155203.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\ca599bfe-1878-49e2-a458-037742a760d5-Screenshot 2024-02-08 155203.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Code\\BackEnd\\Again2\\Again2\\wwwroot\\assets\\images\\website-images\\car.png",

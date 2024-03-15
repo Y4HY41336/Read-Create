@@ -1,9 +1,10 @@
 ﻿using Again2.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Again2.Context;
 
-public class ProniaDbContext : DbContext
+public class ProniaDbContext : IdentityDbContext<AppUser>
 {
     public ProniaDbContext(DbContextOptions<ProniaDbContext> options) : base(options)
     {
